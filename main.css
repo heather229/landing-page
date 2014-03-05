@@ -106,10 +106,13 @@ a:hover {
 
 #art {
 	padding-top: 150px;
-	padding-left: 50px;
 }
 
 table {
+	margin-top: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: auto;
 	font-family: arial;
 	font-weight: bold;
 	font-size: 15px;
