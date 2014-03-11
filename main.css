@@ -145,5 +145,14 @@ th, td {
     border-top: #65573d solid;
 }
 
+/* Artwork Pages */
+
+.soon p {
+	color: #65573d;
+	font-size: 55px;
+	font-family: arial;
+	font-weight: bold;
+	margin: auto;
+}
 
 
